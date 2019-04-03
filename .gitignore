@@ -1,0 +1,11 @@
+*.log
+.git/
+.idea/
+out/
+target/
+/*.iml
+/*.ai
+/*.zip
+/*.jpg
+/*.uml
+/*.png
